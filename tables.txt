@@ -1,0 +1,122 @@
+1.1	Area of woodland by ownership and foresty type at 31 March 2022	
+1.2	Woodland area in the United Kingdom				
+1.3	Area of woodland in the United Kingdom by ownership, 2017-2021	
+1.4	Woodland area certified, March 2022
+1.5	Land use of the FE, FLS, NRW and FS, 2017-2021
+1.6a	Stocked woodland area in GB under FE/FLS/NRW ownership by age class: conifers
+1.6b 	Stocked woodland area in GB under private sector ownership by age class: conifers
+1.6c 	Total stocked woodland area in GB by age class: conifers
+1.7a 	Stocked woodland area in GB under FE/FLS/NRW ownership by age class: broadleaves
+1.7b	Stocked woodland area in GB under private sector ownership by age class: broadleaves
+1.7c 	Total stocked woodland area in GB by age class: broadleaves
+1.8a	Stocked woodland area in GB under FE/FLS/NRW ownership by principal species: conifers
+1.8b	Stocked woodland area in GB under private sector ownership by principal species: conifers
+1.8c	Total stocked woodland area in GB by principal species: conifers
+1.9a	Stocked woodland area in GB under FE/FLS/NRW ownership by principal species: broadleaves
+1.9b	Stocked woodland area in GB under private sector ownership by principal species: broadleaves
+1.9c	Total stocked woodland area in GB by principal species: broadleaves
+1.10a	Growing stock in GB under FE/FLS/NRW ownership by principal species: conifers
+1.10b	Growing stock in GB under private sector ownership by principal species: conifers
+1.10c 	Total growing stock in GB by principal species: conifers
+1.11a	Growing stock in GB under FE/FLS/NRW ownership by principal species: broadleaves
+1.11b	Growing stock in GB under private sector ownership by principal species: broadleaves
+1.11c	Total growing stock in GB by principal species: broadleaves
+1.12	Area of farm woodland, 2012-2021
+1.13a	New planting by forest type
+1.13b 	New planting by ownership
+1.14a 	Publicly funded restocking by forest type
+1.14b	Publicly funded restocking by ownership
+1.15 	Area of private sector woodland covered by unconditional felling licenses, 2012-2013 to 2021-2022
+1.16a	Number of sites where a Statutory Plant Health Notice has been served 2012-2013 to 2021-2022
+1.16b 	Felling areas under Statutory Plant Health Notices, 2012-2013 to 2021-2022
+2.1a 	Softwood production, 2012-2021
+2.1b	Hardwood production, 2012-2021
+2.2 	Private sector softwood removals by country, 2012-2021
+2.3 	FE/FLS/NRW/FS softwood removals, 2012-2021
+2.4a	Softwood availability forecasts
+2.4b	Hardwood availability forecasts
+2.5 	Deliveries of UK-grown softwood, 2012-2021
+2.6	Deliveries of UK-grown hardwood, 2012-2021
+2.7a	Consumption by UK sawmills, 2012-2021
+2.7b 	Sawnwood production by UK sawmills, 2012-2021
+2.8 	Number of sawmills by size category of mill, 2012-2021
+2.9 	Number of sawmills by country, 2012-2021
+2.10 	Number of sawmills by type of wood sawn, 2012-2021
+2.11	Consumption of softwood by size cateogry of mill, 2012-2021
+2.12 	Consumption of softwood by country, 2011-2020
+2.13	Production of sawn softwood by size of mill, 2012-2021
+2.14 	Production of sawn softwood by country, 2012-2021
+2.15	Larger mills: softwood consumption and production
+2.16a	Larger mills: source of softwood logs
+2.16b	Larger mills: source of softwood logs as percentage
+2.17a 	Larger mills: sawn softwood product markets
+2.17b	Larger mills, 2017-2021: sawn softwood product markets
+2.18a	Larger mills: other softwood products
+2.18b	Larger mills, 2017-2021: other softwood products by destination
+2.19a 	Larger mills: sawmill employment
+2.19b	Larger mills, 2017-2021: sawmill employment
+2.20	Inputs for the integrated pulp & paper mills, 2012-2021
+2.21	Production of paper and paperboard, 2012-2021
+2.22 	Softwood inputs to wood-based panel mills, 2012-2021
+2.23	Wood-based panel production, 2012-2021
+2.24 	Miscellaneous uses of UK softwood roundwood, 2012-2021
+2.25	Number of softwood round fencing manufacturers by size category, 2012-2021
+2.26	Total roundwood purchased by size category of softwood round fencing manufacturers, 2012-2021
+2.27	Summary of softwood exports
+2.28a	Percent of volume certified, 2012-2021
+2.28b	Percent of volume certified by country: softwood removals
+2.29	Chain of custody certificates
+2.30	Recycled wood used for woodfuel, 2012-2021
+2.31	Woodfuel supply by sawmills and round fencing manufacturers, 2017-2021
+2.32	Wood pellet feedstock, 2012-2021
+2.33 	Wood pellet feedstock, 2017-2021
+2.34	Preservative treatment of sawnwood and round fencing in the UK
+3.1 	Apparent consumption of wood in the UK, 2012-2021
+3.2	Apparent consumption of wood products in the UK
+3.3	Flow of recovered paper, 2012-2021
+3.4a	UK import quantities, 2012-2021
+3.4b	UK import quantities, 2012-2021: Pulp and paper
+3.5a	UK export quantities, 2012-2021
+3.5b 	UK export quantities, 2012-2021: Pulp and paper
+3.6a	UK import values, 2012-2021
+3.6b	UK import values, 2012-2021: Pulp and paper
+3.7a 	UK export values, 2012-2021
+3.7b	UK export values, 2012-2021
+3.8	Country of origin of wood imports to the UK
+4.1a	UK forest carbon stock
+4.1b	Forest carbon stock by country
+4.2	Net annual change in carbon(CO2 equivalent) in UK woodlands
+4.3a	Woodland Carbon Code projects in the UK
+4.3b	Woodland Carbon Code projects at 31 March 2022
+4.4	Management of UK forests in response to the threat of climate change
+5.1 	UK populations of wild birds
+5.2 	Public opinion of tree health 2015-2021
+5.3a	Type of woodland, Great Britain
+5.3b	Woodland habitats, Great Britain
+6.1	Number of visits to woodland by journey starting point
+6.2a	Mode of transport to visit woodlands - England 2014-15 to 2018-19
+6.2b	Distance travelled to visit woodlands - England 2014-15 to 2018-19
+6.2c	Motivation for visits to woodlands - England 2014-15 to 2018-19
+6.2d	Activities on visits to woodlands - England 2014-15 to 2018-19
+6.2e	Duration of visits to woodlands - England 2014-15 to 2018-19
+6.3	Reasons for visit to woodland of forest - Wales
+6.4	Woodland visitors
+6.5	Woodland visitors by age group
+6.6	Change in views of forests and woodlands due to pandemic
+7.1	Employment in forestry and wood processing, 2017-2021
+7.2a 	Employment in primary wood processing, 2017-2021
+7.2b	Direct employment in paper and board mills, 2017-2021
+7.3 	Accidents to employees in forestry and wood processing, 2015-2016 to 2020-2021
+7.4	Number of establishments in the primary wood processing industries using UK-grown roundwood, 2012-2021
+7.5	Number of VAT and/or PAYE registered businesses by Standard Industrial Classification (SIC), 2012-2021
+8.1	Coniferous standing sales and sawlog price indices for Great Britain, 2012-2022
+8.2	Gross value added in forestry and wood processing, 2017-2021
+8.3 	Funding public forests - expenditure and income
+8.4	Other government expenditure on forestry
+8.5	Grant money paid, 2012-2013 to 2021-2022
+9.1	Forest cover as a percentage of total land area: international comparisons, 2021
+9.2	Annual changes in forest area by region, 1991-2021
+9.3	Carbon stocks in forest living biomass by region, 1991-2021
+9.4	Wood removals by region, 1991-2021
+9.5	Production of wood products by region, 1991-2021
+9.6	Apparent consumption of wood products by region, 1991-2021
